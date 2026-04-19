@@ -1,1 +1,1 @@
-# Validador-de-Secuencias-Biol-gicas
+# Validador-de-Secuencias-Biologicas
