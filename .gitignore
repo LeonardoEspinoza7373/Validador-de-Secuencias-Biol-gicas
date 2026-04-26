@@ -1,0 +1,25 @@
+# Entornos virtuales
+backend/venv/
+backend/.venv/
+env/
+venv/
+ENV/
+
+# Python (Archivos temporales)
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# FastAPI / Entorno
+.env
+.flaskenv
+
+# IDEs y Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
